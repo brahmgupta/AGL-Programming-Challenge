@@ -1,0 +1,15 @@
+.app-content {
+  font-size: calc(10px + 2vmin);  
+}
+
+.owner-list {
+  list-style-type: none;
+}
+
+.owner {
+  margin-top: 10px;
+}
+
+.pet {
+  list-style-type: disc;
+}
